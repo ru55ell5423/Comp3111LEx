@@ -10,6 +10,7 @@ public class mainApp1 {
         System.out.println("Program ..Starting...");
         System.out.println("1 + 1 = "+2);
         System.out.println("New Message");
+        System.out.println("One more New Message");
         System.out.println(b+" to power "+n+" = "+ myLibrary.Power(b,n));
         System.out.println(n+"! = " + myLibrary.factorial(n));
         System.out.println("Program ..Ended …");
